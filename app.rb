@@ -15,5 +15,5 @@ module FormsLab
       #@pirate = Pirate.new(params['pirate'])
       erb :'pirates/show'
     end
-
+  end
 end
